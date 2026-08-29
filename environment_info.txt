@@ -1,0 +1,16 @@
+Project: Customer Churn Intelligence
+
+Python Version:
+3.9.6 (tags/v3.9.6:db3ff76, Jun 28 2021, 15:26:21) [MSC v.1929 64 bit (AMD64)]
+
+Python Executable:
+C:\Users\hp15-da\Desktop\معرض عمال\Customer_Churn_Intelligence\.venv\Scripts\python.exe
+
+Operating System:
+Windows-10-10.0.19045-SP0
+
+Machine:
+AMD64
+
+Processor:
+Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
